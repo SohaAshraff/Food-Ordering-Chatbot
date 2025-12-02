@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/restaurant-telegram-bot.git
+git clone https://github.com/SohaAshraff/Food-Ordering-Chatbot.git
 cd restaurant-telegram-bot
 ```
 
