@@ -145,19 +145,12 @@ CONTAINER ID   IMAGE              PORTS                    NAMES
 ### Setup Telegram Bot Credentials in n8n
 
 1. Open n8n: `http://localhost`
-2. Go to **Settings** → **Credentials**
+2. Go to **Settings** → **Credentials** or clock on  **+** icone on left side then **Credentials**
 3. Click **Add Credential**
 4. Select **Telegram API**
 5. Enter your Bot Token from @BotFather
 6. Save with a memorable name (e.g., "restaurant_bot")
 
-or 
-
-1. upload the workflow ".json" **Import from File**
-2. click on Telegram icons after upload the workflow 
-3. from  **Credential to connect with** choose **Creat new Credential**
-4. Enter your Bot Token from @BotFather in Access Token
-5. Click **Save**
 
 
 ### Import Workflow
