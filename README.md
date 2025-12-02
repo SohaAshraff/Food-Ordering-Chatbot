@@ -214,7 +214,7 @@ restaurant-telegram-bot/
 | `docker-compose.yml` | Defines N8N container configuration |
 | `.env.example` | Template with placeholder values |
 | `.env` | Your actual secrets (never commit!) |
-| `restaurant-bot-workflow.json` | Complete N8N automation logic |
+| `Telegram Food Bot.json` | Complete N8N automation logic |
 | `menu.json` | Restaurant menu items and prices |
 | `README.md` | Documentation (you're reading it!) |
 
